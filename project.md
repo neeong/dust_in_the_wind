@@ -1,17 +1,27 @@
 ---
-layout: page
+
+
 ---
+# Headline
 
-# This is h1
+## Anecdote
 
-## This is h2
+## Transition to body
 
-### This is h3
+* Supportive point
+* Supportive point
 
-*bold*
+## Closing para
+
+* Share the articile
+* Make a commitment
+* Shift their perspective
+* Set a goal
+* Comment
 
 
-_italics_
+## CTA : Become a better leader by commit to lifestale 
 
-''code''
-
+## Closing sentence
+* Reiterate the main idea 
+* Call the reader to action 

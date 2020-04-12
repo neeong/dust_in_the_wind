@@ -1,3 +1,2 @@
 markdown: redcarpet
-baseurl: /dust_in_the_wind
-exclude: ['README.md']
+baseurl: /dust_in_the_wind/
